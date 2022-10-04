@@ -1,14 +1,14 @@
 .footer {
-  padding: 55px 0 30px;
-  &__container {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-  }
-  &__logo {
-    margin-bottom: 42px;
-  }
-  &__contacts {
-    margin-top: auto;
-  }
+   padding: 55px 0 30px;
+   &__container {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+   }
+   &__logo {
+      margin-bottom: 42px;
+   }
+   &__contacts {
+      margin-top: auto;
+   }
 }
